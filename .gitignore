@@ -1,4 +1,7 @@
-*
+.ipynb_*
+*.pyc
+
 !README.md
+!Intro_tutorial.ipynb
 !Minesweeper.ipynb
 
