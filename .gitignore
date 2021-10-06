@@ -1,1 +1,4 @@
-.ipynb_*
+*
+!README.md
+!Minesweeper.ipynb
+
