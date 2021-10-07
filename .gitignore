@@ -1,6 +1,6 @@
 .ipynb_*
 *.pyc
-
+Test_speeds.ipynb
 !README.md
 !Intro_tutorial.ipynb
 !Minesweeper.ipynb
