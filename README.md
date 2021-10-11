@@ -11,3 +11,6 @@ The following packages must be installed:
 * __pillow__ 
 * __tkhtmlview__
 * __matplotlib__
+
+## To Play the Game
+Just run all cells in `Minesweeper.ipynb` notebook
